@@ -1,0 +1,5 @@
+nano abc.txt 
+git add abc.txt 
+git commit -m “add commnet of yout” 
+git remote add origin https://github.com/fronsanu/work.git
+git push -u origin master
